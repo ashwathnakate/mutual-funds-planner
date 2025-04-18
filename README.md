@@ -29,7 +29,7 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) focused on data a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mutual-funds-planner.git
+   git clone https://github.com/ashwathnakate/mutual-funds-planner.git
    cd your-repo-name
    ```
 
