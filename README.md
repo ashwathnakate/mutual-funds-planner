@@ -42,7 +42,7 @@ This repository contains a Jupyter Notebook (`analysis.ipynb`) focused on data a
 
 ### 🧑‍💻 Author
 
-- **Your Name** – [GitHub Profile](https://github.com/ashwathnakate)
+[GitHub Profile](https://github.com/ashwathnakate)
 
 ### 📄 License
 
